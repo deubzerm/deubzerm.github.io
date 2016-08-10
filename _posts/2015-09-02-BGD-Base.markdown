@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "BGD Base"
+date:   2015-09-02 18:58:56
+categories: Brucegoldsmith base test
+---
+
+Ein geiler Flügel und Harry hat ein paar Bilder gemacht.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/133510709@N07/20468680034/in/dateposted-public/" title="Base"><img src="https://farm1.staticflickr.com/620/20468680034_a692427b4a_k.jpg" width="640" height="360" alt="Base"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<!--more-->
+
