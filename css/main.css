@@ -614,7 +614,7 @@ iframe {
 .f-license {
   position: relative;
   text-align: center;
-  top: -10px;
+  top: -40px;
   font-family: "Helvetica Neue", helvetica, arial, sans-serif;
   transition: all .5s ease-in-out; }
   .f-license a {
