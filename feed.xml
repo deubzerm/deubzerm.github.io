@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Martin Deubzer</title>
+    <description>Blog about Paragliding, Kiteboarding and other stuff related to me.
 </description>
     <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Aug 2016 14:30:40 +0200</pubDate>
-    <lastBuildDate>Wed, 10 Aug 2016 14:30:40 +0200</lastBuildDate>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 10 Aug 2016 14:36:30 +0200</pubDate>
+    <lastBuildDate>Wed, 10 Aug 2016 14:36:30 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -35,6 +35,242 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>jekyll test</title>
+        <description>
+</description>
+        <pubDate>Mon, 08 Aug 2016 18:03:00 +0200</pubDate>
+        <link>http://yourdomain.com/jekyll/2016/08/08/jekylltest.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/2016/08/08/jekylltest.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Ski and Fly</title>
+        <description>&lt;p&gt;Klassischer Freitag, der nicht perfekter hätte sein können!&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/26190031924/in/album-72157665531266244/&quot; title=&quot;skitour_april_2016&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7492/26190031924_f48561cea1.jpg&quot; width=&quot;500&quot; height=&quot;376&quot; alt=&quot;skitour_april_2016&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;!--more--&gt;
+&lt;p&gt;Schon am Vorabend war klar das der nächste Tag vielversprechend wird.
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/26701561152/in/album-72157665531266244/&quot; title=&quot;skitour_april_2016&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7628/26701561152_8f7bfcd4a6.jpg&quot; width=&quot;500&quot; height=&quot;376&quot; alt=&quot;skitour_april_2016&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Am nächsten Tag gings dann am späten Vormittag los in Richtung Schnee.
+Fast schon ein bisschen zu spät, da der Schnee schon anfing sehr weich zu werden.
+Gott sei Dank war ich gar nicht darauf aus perfekte Schneeverhältnisse anzutreffen, sondern wollte einfach nur eine klassische Frühjahrstour in T-Shirt machen.
+Der Aufstieg wars problemlos möglich, mehr Sorgen machte mir die Geräuschkulisse im Aufstieg, die glich eher dem Aufenthalt im Steinbruch :D&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/26191351103/in/album-72157665531266244/&quot; title=&quot;skitour_april_2016&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7775/26191351103_459b2be7a3.jpg&quot; width=&quot;500&quot; height=&quot;376&quot; alt=&quot;skitour_april_2016&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Oben angekommen habe ich dann sogar noch jemanden getroffen der zu dieser eher späten Uhrzeit auch noch unterwegs war.
+Bei der Abfahrt hats mich dann einmal ordentlich aufs Maul gelegt, als ich aus einem “schattigerem” Bereich in einen “matschigeren” Bereich reingefahren bin. Das war wie Anker werfen :D
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/26190033184/in/album-72157665531266244/&quot; title=&quot;skitour_april_2016&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7266/26190033184_8dc685b9c3.jpg&quot; width=&quot;500&quot; height=&quot;376&quot; alt=&quot;skitour_april_2016&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+Immerhin hat man dann auch mal Zeit zum Fotos machen, wenn man sich erstmal neu sortieren muss ;)&lt;/p&gt;
+
+&lt;p&gt;Nachmittags konnte ich dann noch mit meinem neuen Gleitschirm auf den Buchenberg fahren und den Schirm “einfliegen” :)
+Leider nicht mit meinem regulärem Gurtzeug, sondern mit meinem alten Sitzgurt. Den bin ich schon ewig nicht mehr geflogen…
+Herzlichen Dank an der Stelle nochmal an Independence für eine besonderst nicht schnelle Reparatur meines Gurtzeugs.
+Ich habe den Flug nach 15 Minuten dann auch beendet weil ich in dem Sitzgurt keinen Spaß hatte.
+Aber der Chili ist sehr geil, Ich freu mich schon den mit einem ordentlichen Gurtzeug zu fliegen :)&lt;/p&gt;
+
+&lt;p&gt;Link zum Fotoalbum:
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/albums/72157665531266244&quot; title=&quot;skitour_april_2016&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7133/26191351763_c27f94279d.jpg&quot; width=&quot;500&quot; height=&quot;376&quot; alt=&quot;skitour_april_2016&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Apr 2016 18:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/ski/paraglide/2016/04/29/skitour.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/ski/paraglide/2016/04/29/skitour.html</guid>
+        
+        
+        <category>ski</category>
+        
+        <category>paraglide</category>
+        
+      </item>
+    
+      <item>
+        <title>Wild Lake Session 2016</title>
+        <description>&lt;h1 id=&quot;wild-lake-session-2016&quot;&gt;Wild Lake Session 2016&lt;/h1&gt;
+
+&lt;p&gt;Nach langer Vorausplanung (nicht) wars dann am Wochenende soweit das ich mal wieder im Winter zum Snowkiten zum WLS gefahren bin.
+Die Vorhersagen waren sich zwar nicht so einig darüber wie das Wetter werden sollte, aber beim WLS gibts auch abseits vom Snowkiten genügend zu tun (Bier, Freunde treffen, endlose Materialdiskussionen :D ).&lt;/p&gt;
+
+&lt;p&gt;Am Freitag ging es dann um 7 Uhr los Richtung Reschenpass. Zuhause war das Wetter wirklich wiederlich (warm, regnerisch und windig). Das Ganze hat sich dann auch bis  ziemlich genau zum Grenzübergang am Reschen fortgesetzt. Ab der Grenze gabs dann sogar vereinzelt blaue Löcher im Himmel und leichter Nordwind war auch schon am Start.&lt;/p&gt;
+
+&lt;p&gt;Der Freitag war dann insgesamt auch ein recht angenehmer Snowkitetag. Griffiger und relativ weicher Schnee auf dem Haidersee und dazu ausreichend Wind für den 12er WildThing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/24562525944/in/album-72157664267368349/&quot; title=&quot;WLS 2016&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1493/24562525944_2cc55faa26.jpg&quot; width=&quot;500&quot; height=&quot;376&quot; alt=&quot;WLS 2016&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;!--more--&gt;
+Ich habe mich auch mal erdreißtet das GPS anzuwerfen und in den DHV-XC server hineinzufüttern… (jaja ich weiß nur gleitschirmfliegen, aber kiten ist ja auch so ne art flugsport und solangs der dhv-xc server frisst… wayne)
+&lt;a href=&quot;http://xc.dhv.de/xc/modules/leonardo/index.php?name=leonardo&amp;amp;op=show_flight&amp;amp;flightID=707743&quot;&gt; Snowkite track &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Abends gabs dann natürlich noch Party beim Attila und die entsprechenden Kopfweh am Samstag morgen natürlich auch ;)&lt;/p&gt;
+
+&lt;h1 id=&quot;samstag-sonne-fhn-schneefall&quot;&gt;Samstag, Sonne, Föhn, Schneefall&lt;/h1&gt;
+
+&lt;p&gt;Der Samstag war insgesamt sehr ähnlich zum Freitag, der Wind war minimal schlechter aber ich habe den ganzen Tag damit verbracht Flysurfer Kites zu testen. Der neue Speed5 war zwar nur in den Kindergrößen anwesend (6m und 9m) aber ich muss wirklich sagen das mir der 9er Speed5 richtig gut gefallen hat (und dafür das es ein 9er war auch richtig Dampf hatte). Insgesamt muss ich sagen das mit der Speed5 sehr gut gefallen hat. Vom Druckaufbau hat er mich an den Speed2 erinnert, war allerdings um Welten schneller (naja gut 9er ist halt einfach schnell).
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/24897568510/in/album-72157664267368349/&quot; title=&quot;WLS 2016&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1641/24897568510_235fd50950.jpg&quot; width=&quot;500&quot; height=&quot;376&quot; alt=&quot;WLS 2016&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+Auf dem Bild sieht man auch sehr schön die Lentis auf/über dem Ortler. gewundert hat mich nur das der Wind am Pass recht schwach war.&lt;/p&gt;
+
+&lt;p&gt;Das Handling ist aber immernoch sehr gut und bei weitem nicht so anspruchsvoll wie beim Sonic (vor allem relaunchen ist nicht so ein Geduldsspielchen und es ist weniger Feingefühl nötig.
+Anschließend habe ich noch den 15er Boost ausprobiert.&lt;/p&gt;
+
+&lt;h2 id=&quot;boost&quot;&gt;&amp;lt;3 Boost&lt;/h2&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/24562526094/in/album-72157664267368349/&quot; title=&quot;WLS 2016&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1717/24562526094_a44d55217c.jpg&quot; width=&quot;500&quot; height=&quot;376&quot; alt=&quot;WLS 2016&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Der 15er Boost ist endlich mal wieder ein Leichtwindkite der einfach konstant Druck hat und jederzeit an der Bar mitteilt was grad Sache ist. Erstaunt hat mich das die 15er Kiste auch bei 5kn Restwind noch einwandfrei zum relaunchen auf dem Schnee ging :O (Rückwärts über die Backlines ist der einwandfrei aufgestiegen).&lt;/p&gt;
+
+&lt;p&gt;Am späten Nachmittag fing es dann an zu schneien, und bis zum Abend kam dann doch einiges zusammen, das aber leider in der Nacht in Pappschnee umgewandelt wurde.&lt;/p&gt;
+
+&lt;h1 id=&quot;sonntag-no-wind&quot;&gt;Sonntag, no Wind&lt;/h1&gt;
+
+&lt;p&gt;Der Sonntag war dann recht Windfrei und  gegen Mittags sind dann auch die meisten aufgebrochen Richtung Heimat, ich auch.&lt;/p&gt;
+
+&lt;p&gt;Das WLS 2016 war großartig und hat mir super getaugt. Vielen Dank an der Stelle nochmal an Attila fürs organisieren und an die Hersteller die gekommen sind und Testmaterial, bzw. auch Kaltgetränke, dabei hatten (Flysurfer/Northkites).&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Hier der Link zu allen Fotos:&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/albums/72157664267368349&quot; title=&quot;WLS 2016&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1493/24562525944_2cc55faa26.jpg&quot; width=&quot;500&quot; height=&quot;376&quot; alt=&quot;WLS 2016&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jan 2016 18:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/wls2016/2016/01/19/WildLakeSession2016.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/wls2016/2016/01/19/WildLakeSession2016.html</guid>
+        
+        
+        <category>WLS2016</category>
+        
+      </item>
+    
+      <item>
+        <title>Tegelberg Südseite</title>
+        <description>&lt;p&gt;Rumfliegen am Tegelberg. Ursprünglich wars ja gar nicht geplant so lange zu fliegen.
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/albums/72157660495583914&quot; title=&quot;Tegelberg 26. Dezember 2015&quot;&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5693/23755195050_961a064553.jpg&quot; width=&quot;500&quot; height=&quot;338&quot; alt=&quot;Tegelberg 26. Dezember 2015&quot; /&gt;&lt;/a&gt;
+&lt;!--more--&gt;
+Tom hatte angekündigt dass er nur bis 13 Uhr Zeit hat, also haben wir uns zur ersten Gondel um 9 am tegelberg verabredet, in der Hoffnung das der Wind schon von vorne kommen wird.
+Erstaunlicherweise war oben dann auch schöner Wind von vorne und wir haben bis 11 Uhr schonmal 2 Flüge runtergerissen.&lt;/p&gt;
+
+&lt;p&gt;um 11 sind wir dann nochmal hoch und da war schon markus beim Kreisen auf der Südseite. Also nix wie hin. Auf dem hinweg ist uns eine Dohle vorausgeflogen und hat sehr zuverlässig dein thermischen Einstieg angezeigt :)&lt;/p&gt;
+
+&lt;p&gt;insgsamt war für mich so ein geiler 30 Minuten Flug drinnen… und das kurz nach Weihnachten :)
+&amp;lt;a href”http://www.dhv-xc.de/xc/modules/leonardo/index.php?name=leonardo&amp;amp;op=show_flight&amp;amp;flightID=698316”&amp;gt;Tegelberg DHV-XC&amp;lt;/a&amp;gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Dec 2015 18:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/tegelberg/2015/12/26/Tegelberg.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/tegelberg/2015/12/26/Tegelberg.html</guid>
+        
+        
+        <category>Tegelberg</category>
+        
+      </item>
+    
+      <item>
+        <title>Buchenberg 2/3</title>
+        <description>&lt;p&gt;Joa, Freitag um 12 aus der Uni raus und ab nach Hause…&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/jMyS83LCiWE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Erstmal dann mit Tom auf den Buchenberg rauf… um oben festzustellen… “Nebel”&lt;/p&gt;
+
+&lt;p&gt;Hat ja niemand mit rechnen können &lt;em&gt;hust&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Oben dann die Entscheidung getroffen soweit runterzulaufen bis es fliegbare Sichtbedingungen hat. Die haben wir dann knapp überhalb vom Schlepplift gefunden. Und weil ich echt Fluggeil war wurde daraus dann der Startplatz.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 27 Nov 2015 18:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/buchenberg/nebel/2015/11/27/Halbler-Buchenberg.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/buchenberg/nebel/2015/11/27/Halbler-Buchenberg.html</guid>
+        
+        
+        <category>buchenberg</category>
+        
+        <category>nebel</category>
+        
+      </item>
+    
+      <item>
+        <title>Forggensee Ostwind</title>
+        <description>&lt;p&gt;Und noch ein Tag geiler Ostwind am Forggensee. Anfangs hat der Wind n bisschen rumgezickt aber gegen späten Nachmittag ists nochmal ordentlich durchgezogen. Leider wars aber auch scheißkalt…&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/21158279303/in/album-72157659136733206/&quot; title=&quot;Ostwind Foilsession&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/746/21158279303_77bbc6c74a_n.jpg&quot; width=&quot;1024&quot; height=&quot;768&quot; alt=&quot;Ostwind Foilsession&quot; /&gt;&lt;/a&gt;&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/albums/72157659136733206&quot; title=&quot;Forggi Foil&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/576/21779360305_17c08bb76c_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Forggi Foil&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Sep 2015 20:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/forggensee/2015/09/27/Forggensee-Ostwind.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/forggensee/2015/09/27/Forggensee-Ostwind.html</guid>
+        
+        
+        <category>forggensee</category>
+        
+      </item>
+    
+      <item>
+        <title>Buchenberg Feierabendsoaren</title>
+        <description>&lt;p&gt;Ja endlich mal, wunderbares soaren am Buchenberg.&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/21001449013/in/album-72157658542190168/&quot; title=&quot;Buchenberg 2015-09-21&quot;&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5770/21001449013_a4f80c8d2b.jpg&quot; width=&quot;1024&quot; height=&quot;768&quot; alt=&quot;Buchenberg 2015-09-21&quot; /&gt;&lt;/a&gt;
+&lt;!--more--&gt;
+Hier noch mehr Bilder im Flickr Album:
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/albums/72157658542190168&quot; title=&quot;Buchenberg 2015-09-22&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/583/21631516101_f5ca454220_z.jpg&quot; width=&quot;640&quot; height=&quot;360&quot; alt=&quot;Buchenberg 2015-09-22&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Sep 2015 22:58:56 +0200</pubDate>
+        <link>http://yourdomain.com/buchenberg/abend/soaren/2015/09/21/Buchenberg-Feierabend.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/buchenberg/abend/soaren/2015/09/21/Buchenberg-Feierabend.html</guid>
+        
+        
+        <category>buchenberg</category>
+        
+        <category>abend</category>
+        
+        <category>soaren</category>
+        
+      </item>
+    
+      <item>
+        <title>Vom Buchenberg zum Tegelberg</title>
+        <description>&lt;p&gt;Alles fing eigentlich mit einem entspannten Ausflug mit Jackson zum Buchenberg an. Oben Angekommen sah das Wetter aber dann nicht so aus, als ob es heute noch gute Flugbedingungen gibt.
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/21230056631/in/album-72157657895159999&quot; title=&quot;IMG_20150907_093021&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/657/21230056631_e37a8024a5_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_20150907_093021&quot; /&gt;&lt;/a&gt;
+&lt;!--more--&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/albums/72157657895159999&quot; title=&quot;buching-&amp;gt;tegelberg&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/657/21230056631_e37a8024a5_z.jpg&quot; width=&quot;640&quot; height=&quot;480&quot; alt=&quot;buching-&amp;gt;tegelberg&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Der wind kam relativ konstant voll aus Süd, und auch die Wolken hingen recht unterschiedlich hoch in den Bergen. Deshalb dann der Entschluss weiterzulaufen zum Tegelberg.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Sep 2015 20:58:56 +0200</pubDate>
+        <link>http://yourdomain.com/tegelberg/buchenberg/2015/09/07/Buchenberg-Tegelberg.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/tegelberg/buchenberg/2015/09/07/Buchenberg-Tegelberg.html</guid>
+        
+        
+        <category>tegelberg</category>
+        
+        <category>buchenberg</category>
+        
+      </item>
+    
+      <item>
+        <title>BGD Base</title>
+        <description>&lt;p&gt;Ein geiler Flügel und Harry hat ein paar Bilder gemacht.
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/20468680034/in/dateposted-public/&quot; title=&quot;Base&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/620/20468680034_a692427b4a_k.jpg&quot; width=&quot;640&quot; height=&quot;360&quot; alt=&quot;Base&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 02 Sep 2015 20:58:56 +0200</pubDate>
+        <link>http://yourdomain.com/brucegoldsmith/base/test/2015/09/02/BGD-Base.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/brucegoldsmith/base/test/2015/09/02/BGD-Base.html</guid>
+        
+        
+        <category>Brucegoldsmith</category>
+        
+        <category>base</category>
+        
+        <category>test</category>
         
       </item>
     
