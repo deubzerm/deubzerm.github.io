@@ -23,6 +23,9 @@ $ease-factor: 1.009;
     top: -40px;
     font-family: "Helvetica Neue", helvetica, arial, sans-serif;
     transition: all .5s ease-in-out;
+    display: table;
+    width: 50%;
+    margin: 0 auto;
 
     a {
         font-size: 7pt;
