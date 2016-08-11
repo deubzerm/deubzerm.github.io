@@ -43,5 +43,14 @@ function scrollToAnchor(aid){
 $("#link-s").click(function() {
    scrollToAnchor('start');
 });
+
+/*sanitize links*/
+$(".post-link").each(function(){
+  var link = this.href;
+  var l = $(this).closest(".short-post");
+  $(l).find(".fimage").each(function(){
+                              this.href = link;
+                            });
+                        });
    </script>
 </html>
