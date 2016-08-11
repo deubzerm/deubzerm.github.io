@@ -616,7 +616,10 @@ iframe {
   text-align: center;
   top: -40px;
   font-family: "Helvetica Neue", helvetica, arial, sans-serif;
-  transition: all .5s ease-in-out; }
+  transition: all .5s ease-in-out;
+  display: table;
+  width: 50%;
+  margin: 0 auto; }
   .f-license a {
     font-size: 7pt; }
   .f-license:hover {

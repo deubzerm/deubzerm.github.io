@@ -65,12 +65,27 @@
       <li>
 
         <h2>
-          <a class="post-link" href="/jekyll/2016/08/08/jekylltest.html">jekyll test</a>
+          <a class="post-link" href="/jekyll/2016/08/08/jekylltest.html">Ausflug Trauchgauer</a>
         </h2>
       <span class="post-meta post-foot">Aug 8, 2016</span>
-        <p><div class="video-container">
-                <a class="fimage" target="_blank">
+        <p><p>War nen schön entspannter Ausflug in die Trauchgauer. Der Angrybird vom Buchenberg war beim Rückflug auch noch mit genügend Kundschaft in tieferen Luftschichten beschäftigt ;)
+Unterwegs auch noch Matthias getroffen und bisserl rumgefilmt.</p>
+
+<p>Und ich hab endlich Die Darstellung meiner Bilder geändert.
+In Zukunft kommt nicht mehr jede Menge fremder Code der in <em>iframes</em> verpackt ist von Flickr mit. Und trotzdem wird mitangezeigt unter welcher Lizenz das Bild bei Flickr veröffentlicht ist.
+(TODO: Namen auch noch mitabgreifen über die Flickr API).</p>
+
+<div class="video-container">
+                <a class="fimage" id="fil" target="_blank" href="https://www.flickr.com/photos/133510709@N07/28640437926/">
                     <img src="https://farm9.staticflickr.com/8106/28640437926_beb95cc135_z.jpg" title="vlcsnap-2016-07-31-09h14m42s529" />
+                </a>
+              <div class="f-license">
+              <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/2.0/">Attribution-NonCommercial-ShareAlike License</a>
+              </div>
+              </div>
+<div class="video-container">
+                <a class="fimage" id="fil" target="_blank" href="https://www.flickr.com/photos/133510709@N07/28672377555/">
+                    <img src="https://farm9.staticflickr.com/8622/28672377555_70fcf2a519_z.jpg" title="vlcsnap-2016-07-31-09h14m13s260" />
                 </a>
               <div class="f-license">
               <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/2.0/">Attribution-NonCommercial-ShareAlike License</a>
@@ -83,6 +98,7 @@
 
     </div>
   </ul>
+</div>
 
 <div class="home">
   <ul class="post-list">
@@ -104,6 +120,7 @@
 
     </div>
   </ul>
+</div>
 
 <div class="home">
   <ul class="post-list">
@@ -131,6 +148,7 @@ Die Vorhersagen waren sich zwar nicht so einig darüber wie das Wetter werden so
 
     </div>
   </ul>
+</div>
 
 <div class="home">
   <ul class="post-list">
@@ -150,6 +168,7 @@ Die Vorhersagen waren sich zwar nicht so einig darüber wie das Wetter werden so
 
     </div>
   </ul>
+</div>
 
 <div class="home">
   <ul class="post-list">
@@ -170,6 +189,7 @@ Die Vorhersagen waren sich zwar nicht so einig darüber wie das Wetter werden so
 
     </div>
   </ul>
+</div>
 
 
 
@@ -210,5 +230,14 @@ function scrollToAnchor(aid){
 $("#link-s").click(function() {
    scrollToAnchor('start');
 });
+
+/*sanitize links*/
+$(".post-link").each(function(){
+  var link = this.href;
+  var l = $(this).closest(".short-post");
+  $(l).find(".fimage").each(function(){
+                              this.href = link;
+                            });
+                        });
    </script>
 </html>

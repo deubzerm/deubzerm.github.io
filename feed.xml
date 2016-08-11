@@ -6,15 +6,30 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 10 Aug 2016 18:12:13 +0200</pubDate>
-    <lastBuildDate>Wed, 10 Aug 2016 18:12:13 +0200</lastBuildDate>
+    <pubDate>Thu, 11 Aug 2016 17:03:26 +0200</pubDate>
+    <lastBuildDate>Thu, 11 Aug 2016 17:03:26 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>jekyll test</title>
-        <description>&lt;div class=&quot;video-container&quot;&gt;
-                &lt;a class=&quot;fimage&quot; target=&quot;_blank&quot;&gt;
+        <title>Ausflug Trauchgauer</title>
+        <description>&lt;p&gt;War nen schön entspannter Ausflug in die Trauchgauer. Der Angrybird vom Buchenberg war beim Rückflug auch noch mit genügend Kundschaft in tieferen Luftschichten beschäftigt ;)
+Unterwegs auch noch Matthias getroffen und bisserl rumgefilmt.&lt;/p&gt;
+
+&lt;p&gt;Und ich hab endlich Die Darstellung meiner Bilder geändert.
+In Zukunft kommt nicht mehr jede Menge fremder Code der in &lt;em&gt;iframes&lt;/em&gt; verpackt ist von Flickr mit. Und trotzdem wird mitangezeigt unter welcher Lizenz das Bild bei Flickr veröffentlicht ist.
+(TODO: Namen auch noch mitabgreifen über die Flickr API).&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+                &lt;a class=&quot;fimage&quot; id=&quot;fil&quot; target=&quot;_blank&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/28640437926/&quot;&gt;
                     &lt;img src=&quot;https://farm9.staticflickr.com/8106/28640437926_beb95cc135_z.jpg&quot; title=&quot;vlcsnap-2016-07-31-09h14m42s529&quot; /&gt;
+                &lt;/a&gt;
+              &lt;div class=&quot;f-license&quot;&gt;
+              &lt;a target=&quot;_blank&quot; href=&quot;https://creativecommons.org/licenses/by-nc-sa/2.0/&quot;&gt;Attribution-NonCommercial-ShareAlike License&lt;/a&gt;
+              &lt;/div&gt;
+              &lt;/div&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+                &lt;a class=&quot;fimage&quot; id=&quot;fil&quot; target=&quot;_blank&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/28672377555/&quot;&gt;
+                    &lt;img src=&quot;https://farm9.staticflickr.com/8622/28672377555_70fcf2a519_z.jpg&quot; title=&quot;vlcsnap-2016-07-31-09h14m13s260&quot; /&gt;
                 &lt;/a&gt;
               &lt;div class=&quot;f-license&quot;&gt;
               &lt;a target=&quot;_blank&quot; href=&quot;https://creativecommons.org/licenses/by-nc-sa/2.0/&quot;&gt;Attribution-NonCommercial-ShareAlike License&lt;/a&gt;
