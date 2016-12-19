@@ -4,11 +4,56 @@
     <title>Martin Deubzer</title>
     <description>Blog about Paragliding, Kiteboarding and other stuff related to me.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 03 Sep 2016 15:18:41 +0200</pubDate>
-    <lastBuildDate>Sat, 03 Sep 2016 15:18:41 +0200</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 19 Dec 2016 18:28:59 +0100</pubDate>
+    <lastBuildDate>Mon, 19 Dec 2016 18:28:59 +0100</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Dolomiten 2016</title>
+        <description>&lt;h1 id=&quot;dolomiten-2016&quot;&gt;Dolomiten 2016&lt;/h1&gt;
+
+&lt;h2 id=&quot;tag-0&quot;&gt;Tag 0:&lt;/h2&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+                &lt;a class=&quot;fimage&quot; id=&quot;fil&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/31709329166/&quot;&gt;
+                    &lt;img src=&quot;https://farm1.staticflickr.com/535/31709329166_f913211079_z.jpg&quot; title=&quot;dolomites2016_dz&quot; /&gt;
+                &lt;/a&gt;
+              &lt;div class=&quot;f-license&quot;&gt;
+              &lt;a target=&quot;_blank&quot; href=&quot;https://creativecommons.org/licenses/by-nc-sa/2.0/&quot;&gt;Attribution-NonCommercial-ShareAlike License&lt;/a&gt;
+              &lt;/div&gt;
+              &lt;/div&gt;
+
+&lt;h2 id=&quot;das-ziel&quot;&gt;Das Ziel:&lt;/h2&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+                &lt;a class=&quot;fimage&quot; id=&quot;fil&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/31373999870/&quot;&gt;
+                    &lt;img src=&quot;https://farm1.staticflickr.com/312/31373999870_859f5a1c34_z.jpg&quot; title=&quot;dolomites2016_dz&quot; /&gt;
+                &lt;/a&gt;
+              &lt;div class=&quot;f-license&quot;&gt;
+              &lt;a target=&quot;_blank&quot; href=&quot;https://creativecommons.org/licenses/by-nc-sa/2.0/&quot;&gt;Attribution-NonCommercial-ShareAlike License&lt;/a&gt;
+              &lt;/div&gt;
+              &lt;/div&gt;
+
+&lt;h2 id=&quot;mission-accomplished-&quot;&gt;Mission accomplished :)&lt;/h2&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+                &lt;a class=&quot;fimage&quot; id=&quot;fil&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/31374011870/&quot;&gt;
+                    &lt;img src=&quot;https://farm1.staticflickr.com/697/31374011870_705cabfdec_z.jpg&quot; title=&quot;dolomites2016_dz&quot; /&gt;
+                &lt;/a&gt;
+              &lt;div class=&quot;f-license&quot;&gt;
+              &lt;a target=&quot;_blank&quot; href=&quot;https://creativecommons.org/licenses/by-nc-sa/2.0/&quot;&gt;Attribution-NonCommercial-ShareAlike License&lt;/a&gt;
+              &lt;/div&gt;
+              &lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 06 Oct 2016 12:00:00 +0200</pubDate>
+        <link>http://localhost:4000/dolomiten/2016/10/06/dolomiten2016.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dolomiten/2016/10/06/dolomiten2016.html</guid>
+        
+        
+        <category>Dolomiten</category>
+        
+      </item>
     
       <item>
         <title>Tegelberg Aquariumsfliegen</title>
@@ -58,8 +103,8 @@ Richtung buching hab ich unterwegs dann nochmal jedes Steigen mitgenommen das mi
 
 </description>
         <pubDate>Fri, 02 Sep 2016 12:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/tegelberg/2016/09/02/Tegelberg_Aquarium.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/tegelberg/2016/09/02/Tegelberg_Aquarium.html</guid>
+        <link>http://localhost:4000/tegelberg/2016/09/02/Tegelberg_Aquarium.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tegelberg/2016/09/02/Tegelberg_Aquarium.html</guid>
         
         
         <category>Tegelberg</category>
@@ -96,8 +141,8 @@ Am Vilser Steinbruch habe ich dann zwar nochmal Steigen gefunden, aber das habe 
 Franz hat mich dann mitgenommen zum Tegelberg. Danke nochmal dafür!&lt;/p&gt;
 </description>
         <pubDate>Sun, 14 Aug 2016 18:03:00 +0200</pubDate>
-        <link>http://yourdomain.com/breitenberg/tegelberg/2016/08/14/Breitenberg.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/breitenberg/tegelberg/2016/08/14/Breitenberg.html</guid>
+        <link>http://localhost:4000/breitenberg/tegelberg/2016/08/14/Breitenberg.html</link>
+        <guid isPermaLink="true">http://localhost:4000/breitenberg/tegelberg/2016/08/14/Breitenberg.html</guid>
         
         
         <category>Breitenberg</category>
@@ -218,8 +263,8 @@ Zusammen mit dem Chilli3 einfach eine &lt;em&gt;Winning Combination&lt;/em&gt;.&
 &lt;p&gt;mal schauen was noch kommt :).&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Aug 2016 12:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/pics/2016/08/12/sommer.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/pics/2016/08/12/sommer.html</guid>
+        <link>http://localhost:4000/pics/2016/08/12/sommer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pics/2016/08/12/sommer.html</guid>
         
         
         <category>pics</category>
@@ -254,8 +299,8 @@ In Zukunft kommt nicht mehr jede Menge fremder Code der in &lt;em&gt;iframes&lt;
 
 </description>
         <pubDate>Mon, 08 Aug 2016 18:03:00 +0200</pubDate>
-        <link>http://yourdomain.com/jekyll/2016/08/08/jekylltest.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/2016/08/08/jekylltest.html</guid>
+        <link>http://localhost:4000/jekyll/2016/08/08/jekylltest.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/2016/08/08/jekylltest.html</guid>
         
         
         <category>jekyll</category>
@@ -294,8 +339,8 @@ Aber der Chili ist sehr geil, Ich freu mich schon den mit einem ordentlichen Gur
 &lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/albums/72157665531266244&quot; title=&quot;skitour_april_2016&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7133/26191351763_c27f94279d.jpg&quot; width=&quot;500&quot; height=&quot;376&quot; alt=&quot;skitour_april_2016&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 29 Apr 2016 18:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/ski/paraglide/2016/04/29/skitour.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/ski/paraglide/2016/04/29/skitour.html</guid>
+        <link>http://localhost:4000/ski/paraglide/2016/04/29/skitour.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ski/paraglide/2016/04/29/skitour.html</guid>
         
         
         <category>ski</category>
@@ -322,7 +367,7 @@ Ich habe mich auch mal erdreißtet das GPS anzuwerfen und in den DHV-XC server h
 
 &lt;p&gt;Abends gabs dann natürlich noch Party beim Attila und die entsprechenden Kopfweh am Samstag morgen natürlich auch ;)&lt;/p&gt;
 
-&lt;h1 id=&quot;samstag-sonne-fhn-schneefall&quot;&gt;Samstag, Sonne, Föhn, Schneefall&lt;/h1&gt;
+&lt;h1 id=&quot;samstag-sonne-föhn-schneefall&quot;&gt;Samstag, Sonne, Föhn, Schneefall&lt;/h1&gt;
 
 &lt;p&gt;Der Samstag war insgesamt sehr ähnlich zum Freitag, der Wind war minimal schlechter aber ich habe den ganzen Tag damit verbracht Flysurfer Kites zu testen. Der neue Speed5 war zwar nur in den Kindergrößen anwesend (6m und 9m) aber ich muss wirklich sagen das mir der 9er Speed5 richtig gut gefallen hat (und dafür das es ein 9er war auch richtig Dampf hatte). Insgesamt muss ich sagen das mit der Speed5 sehr gut gefallen hat. Vom Druckaufbau hat er mich an den Speed2 erinnert, war allerdings um Welten schneller (naja gut 9er ist halt einfach schnell).
 &lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/24897568510/in/album-72157664267368349/&quot; title=&quot;WLS 2016&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1641/24897568510_235fd50950.jpg&quot; width=&quot;500&quot; height=&quot;376&quot; alt=&quot;WLS 2016&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -331,7 +376,7 @@ Auf dem Bild sieht man auch sehr schön die Lentis auf/über dem Ortler. gewunde
 &lt;p&gt;Das Handling ist aber immernoch sehr gut und bei weitem nicht so anspruchsvoll wie beim Sonic (vor allem relaunchen ist nicht so ein Geduldsspielchen und es ist weniger Feingefühl nötig.
 Anschließend habe ich noch den 15er Boost ausprobiert.&lt;/p&gt;
 
-&lt;h2 id=&quot;boost&quot;&gt;&amp;lt;3 Boost&lt;/h2&gt;
+&lt;h2 id=&quot;3-boost&quot;&gt;&amp;lt;3 Boost&lt;/h2&gt;
 
 &lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/24562526094/in/album-72157664267368349/&quot; title=&quot;WLS 2016&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1717/24562526094_a44d55217c.jpg&quot; width=&quot;500&quot; height=&quot;376&quot; alt=&quot;WLS 2016&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
@@ -351,8 +396,8 @@ Anschließend habe ich noch den 15er Boost ausprobiert.&lt;/p&gt;
 &lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/albums/72157664267368349&quot; title=&quot;WLS 2016&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1493/24562525944_2cc55faa26.jpg&quot; width=&quot;500&quot; height=&quot;376&quot; alt=&quot;WLS 2016&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Jan 2016 18:00:00 +0100</pubDate>
-        <link>http://yourdomain.com/wls2016/2016/01/19/WildLakeSession2016.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/wls2016/2016/01/19/WildLakeSession2016.html</guid>
+        <link>http://localhost:4000/wls2016/2016/01/19/WildLakeSession2016.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wls2016/2016/01/19/WildLakeSession2016.html</guid>
         
         
         <category>WLS2016</category>
@@ -373,8 +418,8 @@ Erstaunlicherweise war oben dann auch schöner Wind von vorne und wir haben bis 
 &amp;lt;a href”http://www.dhv-xc.de/xc/modules/leonardo/index.php?name=leonardo&amp;amp;op=show_flight&amp;amp;flightID=698316”&amp;gt;Tegelberg DHV-XC&amp;lt;/a&amp;gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Dec 2015 18:00:00 +0100</pubDate>
-        <link>http://yourdomain.com/tegelberg/2015/12/26/Tegelberg.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/tegelberg/2015/12/26/Tegelberg.html</guid>
+        <link>http://localhost:4000/tegelberg/2015/12/26/Tegelberg.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tegelberg/2015/12/26/Tegelberg.html</guid>
         
         
         <category>Tegelberg</category>
@@ -396,8 +441,8 @@ Erstaunlicherweise war oben dann auch schöner Wind von vorne und wir haben bis 
 
 </description>
         <pubDate>Fri, 27 Nov 2015 18:00:00 +0100</pubDate>
-        <link>http://yourdomain.com/buchenberg/nebel/2015/11/27/Halbler-Buchenberg.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/buchenberg/nebel/2015/11/27/Halbler-Buchenberg.html</guid>
+        <link>http://localhost:4000/buchenberg/nebel/2015/11/27/Halbler-Buchenberg.html</link>
+        <guid isPermaLink="true">http://localhost:4000/buchenberg/nebel/2015/11/27/Halbler-Buchenberg.html</guid>
         
         
         <category>buchenberg</category>
@@ -415,33 +460,11 @@ Erstaunlicherweise war oben dann auch schöner Wind von vorne und wir haben bis 
 &lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/albums/72157659136733206&quot; title=&quot;Forggi Foil&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/576/21779360305_17c08bb76c_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Forggi Foil&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 Sep 2015 20:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/forggensee/2015/09/27/Forggensee-Ostwind.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/forggensee/2015/09/27/Forggensee-Ostwind.html</guid>
+        <link>http://localhost:4000/forggensee/2015/09/27/Forggensee-Ostwind.html</link>
+        <guid isPermaLink="true">http://localhost:4000/forggensee/2015/09/27/Forggensee-Ostwind.html</guid>
         
         
         <category>forggensee</category>
-        
-      </item>
-    
-      <item>
-        <title>Buchenberg Feierabendsoaren</title>
-        <description>&lt;p&gt;Ja endlich mal, wunderbares soaren am Buchenberg.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/21001449013/in/album-72157658542190168/&quot; title=&quot;Buchenberg 2015-09-21&quot;&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5770/21001449013_a4f80c8d2b.jpg&quot; width=&quot;1024&quot; height=&quot;768&quot; alt=&quot;Buchenberg 2015-09-21&quot; /&gt;&lt;/a&gt;
-&lt;!--more--&gt;
-Hier noch mehr Bilder im Flickr Album:
-&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/133510709@N07/albums/72157658542190168&quot; title=&quot;Buchenberg 2015-09-22&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/583/21631516101_f5ca454220_z.jpg&quot; width=&quot;640&quot; height=&quot;360&quot; alt=&quot;Buchenberg 2015-09-22&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 Sep 2015 22:58:56 +0200</pubDate>
-        <link>http://yourdomain.com/buchenberg/abend/soaren/2015/09/21/Buchenberg-Feierabend.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/buchenberg/abend/soaren/2015/09/21/Buchenberg-Feierabend.html</guid>
-        
-        
-        <category>buchenberg</category>
-        
-        <category>abend</category>
-        
-        <category>soaren</category>
         
       </item>
     
