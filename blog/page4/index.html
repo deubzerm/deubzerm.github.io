@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Martin Deubzer</title>
+  <meta name="description" content="Blog about Paragliding, Kiteboarding and other stuff related to me.
+">
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:600' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/blog/page4/">
+  <link rel="alternate" type="application/rss+xml" title="Martin Deubzer" href="http://localhost:4000/feed.xml" />
+</head>
+
+
+  <body>
+    <header class="site-header">
+
+      <div class="wrapper">
+
+        <nav class="site-nav">
+          
+          
+          <a class="navlink" href="/about/">About</a>
+          
+          
+          
+          
+          
+          <a class="navlink" href="/imp/">Impressum</a>
+          
+          
+          
+          
+          
+          <a class="navlink" href="/links/">Links</a>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <a id="link-s" class="navlink" href="#start">Blog</a>
+        </nav>
+      </div>
+    </header>
+
+    <div class="cover">
+      <div class="site-name">
+        <div class="site-name__inner">
+          <a class="name">Martin Deubzer</a>
+          <div class="desc">Blog about Paragliding, Kiteboarding and other stuff related to me.
+</div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="page-content">
+      <a name="start"> </a>
+
+<div class="home">
+  <ul class="post-list">
+    <div class="short-post custom-short">
+      <li>
+
+        <h2>
+          <a class="post-link" href="/tegelberg/abendflug/magic-air/2015/08/31/Tegelberg.html">Tegelberg magic</a>
+        </h2>
+      <span class="post-meta post-foot">Aug 31, 2015</span>
+        <p><p>Einer der schönstesn Flüge des Jahres hier zum angucken:
+<a href="http://www.dhv-xc.de/xc/modules/leonardo/index.php?name=leonardo&amp;op=show_flight&amp;flightID=670878"> klick mal </a></p>
+</p>
+<p>
+<a class="button" href="/tegelberg/abendflug/magic-air/2015/08/31/Tegelberg.html" role="button">moar...<i class="fa fa-arrow-circle-right"></i></a>
+</p>
+      </li>
+
+
+    </div>
+  </ul>
+</div>
+
+
+
+<!-- Pagination links -->
+  
+  <a href="/blog/page3/" >Previous</a>
+  
+  <span >Page: 4 of 4</span>
+  
+  <div >Next</div>
+  
+</div>
+
+</div>
+
+
+    </div>
+
+        <script language="JavaScript" type="text/javascript" src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script>
+
+
+$(".custom-short").click(function(){
+console.log("hiho");
+var t = $(this).find(".post-link")[0].href;
+console.log(t);
+window.location.href = t;
+});
+
+    </script>
+
+  </body>
+  <script>
+function scrollToAnchor(aid){
+    var aTag = $("a[name='"+ aid +"']");
+    $('html,body').animate({scrollTop: aTag.offset().top},'slow');
+}
+$("#link-s").click(function() {
+   scrollToAnchor('start');
+});
+
+/*sanitize links*/
+$(".post-link").each(function(){
+  var link = this.href;
+  var l = $(this).closest(".short-post");
+  $(l).find(".fimage").each(function(){
+                              this.href = link;
+                            });
+                        });
+   </script>
+</html>
