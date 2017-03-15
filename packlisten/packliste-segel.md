@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Packliste
+title: Segeltörn Packliste
 exclude: true
-permalink: /liste/
+permalink: /segelliste/
 ---
 
-# Packliste Segeltörn
+<!--{{ site.baseurl }}{% link links.md %} !-->
 
 ## Kleinteile
 * Sonnenbrille
@@ -96,9 +96,13 @@ permalink: /liste/
 * gesundheitskarte
 
 # optional
+* Weste
 
 # bespaßung
 * looping lui
+* musikliste
+  * manu chao
+  * 
 
 ## werkzeug
 
