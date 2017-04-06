@@ -13,20 +13,24 @@ permalink: /segelliste/
 
 ## Kleinteile
 * Sonnenbrille
-* ersatzbrille
-* labello
+* Ersatzbrille
+* Labello
 * __käppi__
+* mütze
 * buch 
 * wasserdichte tasche
-* messer
-* spielkarten
+* GS-Leine
+* Wäscheklammern
+* Oropax
+* Sonnencreme
+
 
 
 # medikamente
 * aspirin
 * ibu
 * kohle
-* seekrankehit?
+* seekrankeheit?
 * kaugummi
 
 
@@ -36,8 +40,8 @@ permalink: /segelliste/
 
 * Schwimmweste + lifeline
 * Neopren + schuhe + haube
-* Spaytop
-* regenkombi -> felix baumann
+* Spraytop
+* Handschuhe / holzerhandschuhe
 
 
 # schlafen
@@ -48,12 +52,12 @@ permalink: /segelliste/
 
 ## Bekleidung
 * handschuhe
-* t-shirt 2x 
+* t-shirts 
 * windstopper shirt
-* merinoshirt 1x
+* merinoshirt
 * ski-kombi
 * jeans
-* trekkinghose(grün/schwarz)
+* trekkinghose
 * 2x pulli (dünn)
 * fleece
 * boardshort
@@ -61,39 +65,38 @@ permalink: /segelliste/
 * unterhosen
 * socken
 
+
 # jacke
 * Jacke snowboard
-* jacke hardshell(mammut)
+* jacke hardshell
+
 
 # schuhe
 * flip-flops
-* gummistiefel?
+* gummistiefel
 * normalschuhe
-* decksschuhe?
 
 ## Badtasche
 * zahnpaste + bürste
-* Handtuch
+* Handtuch 1x light, 1x heavy
 * duschgel "n in 1"
-* badehandtuchhalter 2x __Todo kaufen__
+* badehandtuchhalter 2x
 
 ## Elektronik
 
-* Solarpanel?
-* Brüllwürfel
-* kopfhörer
-* smartphone + akkupack
-* ladegerät
+* Kopfhörer
+* Smartphone + akkupack
+* Ladegerät
 * GPS
-* handfunke?
 * Taschenlampe
+* stirnlampe
 
 ## dokumente
-* sks-umschlag
+* *__SKS-UMSCHLAG !!!!!!!!!!!!__*
 * sks-buch
 * kommandoliste
-* knotenanleitung
-* formelsammlung navigation
+* knotenanleitungen?
+* formelsammlung navigation?
 * personalausweis
 * adac-karte
 * ATM card
@@ -103,14 +106,7 @@ permalink: /segelliste/
 * Weste
 
 # bespaßung
-* looping lui
-* musikliste
-  * manu chao
-  * 
+* spielkarten
 
 ## werkzeug
-
-## navigation
-* fernglas
-* kompass
-
+* bieröffner
