@@ -4,6 +4,8 @@
 
 $orange-color: #ED5D01;
 $ease-factor: 1.00;
+$imagecolorbackground: #404040;
+$image-margin: 1em;
 
 .button {
     -webkit-appearance: none;
@@ -77,12 +79,19 @@ $ease-factor: 1.00;
     }
 }
 
+.video-container {
+    background-color: $imagecolorbackground;
+    margin-bottom: $image-margin;
+}
+
 .video-container iframe {
     display: block;
     margin-left: auto !important;
     margin-right: auto !important;
 
 }
+
+
 .page-content iframe {
     display: block;
     margin-left: auto !important;
