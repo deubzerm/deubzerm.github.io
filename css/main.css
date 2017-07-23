@@ -661,6 +661,10 @@ iframe {
     transform: scale(2, 2);
     color: white; }
 
+.video-container {
+  background-color: #404040;
+  margin-bottom: 1em; }
+
 .video-container iframe {
   display: block;
   margin-left: auto !important;
