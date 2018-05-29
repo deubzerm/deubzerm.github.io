@@ -1,2 +1,0 @@
-# deubzerm.github.io
-blog
